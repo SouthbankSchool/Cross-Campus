@@ -1,4 +1,4 @@
-## How to change RC IVR
+## How to change RingCentral IVR (Interative Voice Response)
 
 1. Log in to Ring Central (Google Auth)
 2. Choose Auto receptionist from the menu on left
