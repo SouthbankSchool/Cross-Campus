@@ -20,8 +20,8 @@ There is a single level IVR with all numbers going to a single IVR.
 
 Below are screenshots of the current setup as of October 2018.
 
-![GitHub Logo](Cross-Campus/RingCentral/numbers.png)
+![IVR Numbers](Cross-Campus/RingCentral/numbers.png)
 
 
 
-![stack Overflow](http://lmsotfy.com/so.png)
+
