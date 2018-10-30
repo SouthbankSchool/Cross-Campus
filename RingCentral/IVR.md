@@ -20,8 +20,8 @@ There is a single level IVR with all numbers going to a single IVR.
 
 Below are screenshots of the current setup as of October 2018.
 
-![IVR Numbers](Cross-Campus/RingCentral/numbers.png)
+![IVR Numbers](numbers.png)
 
-![IVR Key Presses](Cross-Campus/RingCentral/IVR Key Presses.png)
+![IVR Key Presses](presses.png)
 
 
