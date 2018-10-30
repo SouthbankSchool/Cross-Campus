@@ -22,6 +22,6 @@ Below are screenshots of the current setup as of October 2018.
 
 ![IVR Numbers](Cross-Campus/RingCentral/numbers.png)
 
-
+![IVR Key Presses](Cross-Campus/RingCentral/IVR Key Presses.png)
 
 
